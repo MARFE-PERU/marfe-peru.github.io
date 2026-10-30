@@ -2,28 +2,28 @@ const galleries = {
   "vestido-negro": {
     title: "Vestido Negro",
     images: [
-      "vestido-negro-01.png",
-      "vestido-negro-02.png",
-      "vestido-negro-03.png"
+      "images/productos/vestido-negro-01.png",
+      "images/productos/vestido-negro-02.png",
+      "images/productos/vestido-negro-03.png"
     ],
     alts: ["Vestido Negro, detalle posterior", "Vestido Negro, vista completa", "Vestido Negro, vista lateral"]
   },
   "vestido-rose": {
     title: "Vestido Rosé",
     images: [
-      "vestido-rose-01.png",
-      "vestido-rose-02.png"
+      "images/productos/vestido-rose-01.png",
+      "images/productos/vestido-rose-02.png"
     ],
     alts: ["Vestido Rosé, vista frontal", "Vestido Rosé, composición de vistas"]
   },
   "noche-de-zafiro": {
     title: "Noche de Zafiro",
-    images: ["noche-de-zafiro.png"],
+    images: ["images/productos/noche-de-zafiro.png"],
     alts: ["Vestido Noche de Zafiro"]
   },
   "vestido-escarlata": {
     title: "Vestido Escarlata",
-    images: ["vestido-escarlata.png"],
+    images: ["images/productos/vestido-escarlata.png"],
     alts: ["Vestido Escarlata"]
   }
 };
