@@ -54,7 +54,7 @@ h1 em, h2 em { color: #987247; font-weight: 400; }
 .product-image img { display: block; width: 100%; aspect-ratio: 3 / 4.3; object-fit: cover; object-position: center top; transition: transform .55s; }
 .product-card[data-product="vestido-negro"] .product-image img {
     object-fit: contain;
-    transform: scale(1.18);
+    transform: scale(1.38);
 }
 .product-image:hover img { transform: scale(1.035); }
 .view-label { position: absolute; left: 0; right: 0; bottom: 0; padding: 14px; background: linear-gradient(transparent, rgba(25,20,16,.62)); color: white; font-size: 8px; letter-spacing: .18em; text-align: left; }
