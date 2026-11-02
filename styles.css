@@ -120,7 +120,12 @@ h1 em, h2 em { color: #987247; font-weight: 400; }
   .hero-copy { padding: 0; }
   .hero h1 { font-size: 59px; }
   .hero-image { max-width: none; }
-  .hero-image img { height: min(125vw, 560px); }
+  .hero-image img {
+  height: min(75vw, 320px);
+  width: 100%;
+  object-fit: contain;
+  object-position: center;
+}
   .hero-side-note { display: none; }
   .section-pad { padding: 72px 7%; }
   .section-heading { display: block; }
